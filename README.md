@@ -24,10 +24,10 @@ TODO
         -   [📚 Others](#-others)
     -   [🛡️ Defense](#️-defense)
         -   [📄 Papers](#-papers-1)
-        -   [🧩 Others](#-others-1)
+        -   [📚 Others](#-others-1)
     -   [📊 Evaluation](#-evaluation)
         -   [📄 Papers](#-papers-2)
-        -   [🧩 Others](#-others-2)
+        -   [📚 Others](#-others-2)
 
 ---
 
@@ -64,7 +64,7 @@ TODO
 | 09/2023 |    arxiv     |                 [Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614)                  | University of Maryland  |
 | 09/2023 |    arxiv     |             [Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations](https://doi.org/10.48550/arXiv.2312.06674)              |          Meta           |
 
-### 🧩 Others
+### 📚 Others
 
 [📰 Latest Papers](.//subtopics/defense.md)
 
@@ -90,7 +90,7 @@ TODO
 | 05/2022 |     ACL 2022     |                                                           [BBQ: A hand-built bias benchmark for question answering](https://aclanthology.org/2022.findings-acl.165/)                                                            |                              New York University                              |
 | 11/2021 |      arxiv       |                                                                       [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)                                                                        |                                    OpenAI                                     |
 
-### 🧩 Others
+### 📚 Others
 
 [📰 Latest Papers](.//subtopics/evaluation.md)
 
